@@ -1,5 +1,6 @@
 # RegCEl M_v1.0
 ==========================
+
 Es una app desarrollada en python3 con el framework Kivy/KivyMD.
 La misma permite llevar un registro con las lecturas del contador eléctrico en su hogar, calculando automáticamente 
 los Kw/h consumidos y el importe a pagar mediante la tarifa residencial. Ha sido diseñada para ser fácil, intuitiva y generar una
